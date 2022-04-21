@@ -1,0 +1,2 @@
+total 0
+-rw-r--r-- 1 artam 197609 0 Apr 21 18:33 file_list.txt
